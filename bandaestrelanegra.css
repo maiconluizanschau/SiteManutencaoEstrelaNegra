@@ -1,0 +1,19 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-image: url(fundoestrelanegra.jpg);
+	background-repeat: no-repeat top center;
+	background-color: #FFFAFA;
+}
+.style1 {
+	font-size: 11px;
+	font-family: "Arial";
+	color: #0000FF;
+	text-align: center;
+}
+#rodape{
+position: absolute;
+bottom:0;
+}
